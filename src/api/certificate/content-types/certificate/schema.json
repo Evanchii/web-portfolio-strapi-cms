@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "certificates",
+  "info": {
+    "singularName": "certificate",
+    "pluralName": "certificates",
+    "displayName": "Certificate"
+  },
+  "options": {
+    "comment": ""
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "certificate_image": {
+      "type": "media",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "multiple": false
+    },
+    "date_issued": {
+      "type": "date"
+    },
+    "description": {
+      "type": "text"
+    },
+    "relevant_link": {
+      "type": "string"
+    },
+    "issuer": {
+      "type": "string"
+    }
+  }
+}
