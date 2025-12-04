@@ -13,13 +13,17 @@
     "title": {
       "type": "text"
     },
+    "icon": {
+      "type": "media",
+      "allowedTypes": [
+        "images"
+      ],
+      "multiple": false
+    },
     "screenshots": {
       "type": "media",
       "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
+        "images"
       ],
       "multiple": true
     },
