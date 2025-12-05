@@ -35,6 +35,13 @@
         "images"
       ],
       "multiple": false
+    },
+    "resume": {
+      "type": "media",
+      "allowedTypes": [
+        "files"
+      ],
+      "multiple": false
     }
   }
 }
