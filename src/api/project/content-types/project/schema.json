@@ -41,6 +41,9 @@
     },
     "authors": {
       "type": "json"
+    },
+    "technologies": {
+      "type": "json"
     }
   }
 }
