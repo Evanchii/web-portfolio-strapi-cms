@@ -22,14 +22,14 @@
     "skills": {
       "type": "json"
     },
-    "main-image": {
+    "main_image": {
       "type": "media",
       "allowedTypes": [
         "images"
       ],
       "multiple": false
     },
-    "creative-image": {
+    "creative_image": {
       "type": "media",
       "allowedTypes": [
         "images"
