@@ -48,6 +48,10 @@
     "isLogo": {
       "type": "boolean",
       "default": false
+    },
+    "isHidden": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
